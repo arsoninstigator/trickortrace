@@ -11,5 +11,6 @@ I'm making a macropad because I couldn't complete #hackpad within it's duration 
 <br>
 
 <b> How much is it going to cost? </b>
+70$ including shipping 
 
 <!-- Tell us a little bit about your design process. What were some challenges? What helped? ***Totally optional*** -->
